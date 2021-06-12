@@ -1,6 +1,9 @@
 # adblock filter for ovdy h'
 A adblock list for religes pepole how perfer to avoid non ethical content on the internet
 
+
+
+
 # how to install
 1. install a adblocker addon to your browser (I recommend Adblock Plus)
 2. go to settings in the addon and go to filter lists
@@ -10,3 +13,8 @@ https://docs.google.com/document/d/1xd0nFvveNHxl4-0cWj339BN2b0GBShhr4g4yY7YUbe4/
 
 your done, 
 enjoy
+
+
+## contribushuns
+if anyone wants to add more filters i will be glad if thay post it in the issues tab or send the details in this form:                         
+https://forms.gle/NPPeHrjZ14UKS9qD9
