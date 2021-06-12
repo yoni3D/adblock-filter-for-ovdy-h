@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version:0.11
-! Title:filter list for ovdy h'
-! Last modified:27/04/2021
+! Version:0.12
+! Title:filter for ovdy h'
+! Last modified:13/06/2021
 ! Expires: 14 days (update frequency)
-! Homepage:
+! Homepage: https://github.com/yoni3D/adblock-filter-for-ovdy-h
 ! all rights reserved
 !
 ! link for adding to Adblock: https://docs.google.com/document/d/1xd0nFvveNHxl4-0cWj339BN2b0GBShhr4g4yY7YUbe4/export?format=txt
