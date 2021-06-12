@@ -15,6 +15,6 @@ your done,
 enjoy
 
 
-## contribushuns
+## contributions
 if anyone wants to add more filters i will be glad if thay post it in the issues tab or send the details in this form:                         
 https://forms.gle/NPPeHrjZ14UKS9qD9
