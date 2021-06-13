@@ -1,5 +1,5 @@
 # adblock filter for ovdy h'
-A adblock list for religes pepole how perfer to avoid non ethical content on the internet
+A adblock filter list for religious people who prefer to avoid non ethical content on the internet
 
 
 
