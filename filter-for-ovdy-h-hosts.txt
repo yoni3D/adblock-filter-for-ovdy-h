@@ -1,1 +1,59 @@
-
+# Version:0.12
+# Title:filter for ovdy h'
+# Last modified:13/06/2021
+# Expires: 14 days (update frequency)
+# Homepage: https://github.com/yoni3D/adblock-filter-for-ovdy-h
+# all rights reserved
+#
+# link for adding to Adblock: https://docs.google.com/document/d/1xd0nFvveNHxl4-0cWj339BN2b0GBShhr4g4yY7YUbe4/export?format=txt
+#
+#
+#-------------ads on arutz 7---------------
+0.0.0.0 taboola.com
+0.0.0.0 trc.taboola.com
+#-------------end of block for arutz 7-----------
+#
+#-------------ads on fxp.co.il---------------
+0.0.0.0 viglink.com
+0.0.0.0 redirect.viglink.com
+#-------------end of block for fxp.co.il---------------
+#
+#-------------ads on israelhayom.co.il---------------
+0.0.0.0 outbrain.com
+#-------------end of block for israelhayom.co.il---------------
+#
+0.0.0.0 www.deviantart.com
+0.0.0.0 www.weasyl.com
+0.0.0.0 www.newgrounds.com
+0.0.0.0 www.magicalgirlneil.com
+0.0.0.0 www.reddit.com
+0.0.0.0 www.furaffinity.net
+0.0.0.0 www.greatshiftcaptions.com
+0.0.0.0 mastodon.art
+0.0.0.0 www.genderbender.in
+0.0.0.0 deviantart.com
+0.0.0.0 weasyl.com
+0.0.0.0 newgrounds.com
+0.0.0.0 magicalgirlneil.com
+0.0.0.0 reddit.com
+0.0.0.0 furaffinity.net
+0.0.0.0 greatshiftcaptions.com
+0.0.0.0 genderbender.in
+0.0.0.0 Fizzystgcaps.wordpress.com
+0.0.0.0 freeksplace.blogspot.com
+0.0.0.0 swappinggrounds.blogspot.com
+0.0.0.0 some-tg-caps.blogspot.com
+#-------------------alredy blockt by opendns-----------------
+0.0.0.0 knightstgcaps.blogspot.com
+0.0.0.0 crastftgcaptions.blogspot.com
+#
+#-----image hosting sites--------
+#
+0.0.0.0 encrypted-tbn0.gstatic.com
+0.0.0.0 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
+0.0.0.0 d.facdn.net
+0.0.0.0 pbs.twimg.com
+0.0.0.0 i.makeagif.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 cdn.weasyl.com
+0.0.0.0 cdn.masto.host
