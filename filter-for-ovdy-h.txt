@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version:0.12
+! Version:0.13
 ! Title:filter for ovdy h'
 ! Last modified:13/06/2021
 ! Expires: 14 days (update frequency)
@@ -36,6 +36,7 @@ redirect.viglink.com
 ||www.genderbender.in
 ||deviantart.com
 ||weasyl.com
+||cdn.weasyl.com
 ||newgrounds.com
 ||magicalgirlneil.com
 ||reddit.com
@@ -50,7 +51,7 @@ redirect.viglink.com
 ||knightstgcaps.blogspot.com
 ||crastftgcaptions.blogspot.com
 !
-!-----image hosting sites--------!
+!-----central image hosting sites (used by google etc.)--------!
 !
 ||encrypted-tbn0.gstatic.com
 ||images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
@@ -58,6 +59,5 @@ redirect.viglink.com
 ||pbs.twimg.com
 ||i.makeagif.com
 ||i.ytimg.com
-||cdn.weasyl.com
 ||cdn.masto.host
 !
