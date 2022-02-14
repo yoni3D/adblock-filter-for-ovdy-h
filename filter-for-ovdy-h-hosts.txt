@@ -1,5 +1,6 @@
 # Version:0.12
 # Title:filter for ovdy h'
+#ver for pihole and hosts file
 # Last modified:13/06/2021
 # Expires: 14 days (update frequency)
 # Homepage: https://github.com/yoni3D/adblock-filter-for-ovdy-h
