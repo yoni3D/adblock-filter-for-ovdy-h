@@ -1,4 +1,4 @@
-# Version:0.12
+# Version:0.13
 # Title:filter for ovdy h'
 # ver for pihole and hosts file
 # Last modified:13/06/2021
@@ -34,6 +34,7 @@
 0.0.0.0 www.genderbender.in
 0.0.0.0 deviantart.com
 0.0.0.0 weasyl.com
+0.0.0.0 cdn.weasyl.com
 0.0.0.0 newgrounds.com
 0.0.0.0 magicalgirlneil.com
 0.0.0.0 reddit.com
@@ -48,7 +49,7 @@
 0.0.0.0 knightstgcaps.blogspot.com
 0.0.0.0 crastftgcaptions.blogspot.com
 #
-#-----image hosting sites--------
+#-----central image hosting sites (used by google etc.)--------
 #
 0.0.0.0 encrypted-tbn0.gstatic.com
 0.0.0.0 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
@@ -56,5 +57,4 @@
 0.0.0.0 pbs.twimg.com
 0.0.0.0 i.makeagif.com
 0.0.0.0 i.ytimg.com
-0.0.0.0 cdn.weasyl.com
 0.0.0.0 cdn.masto.host
